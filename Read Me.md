@@ -1,9 +1,6 @@
 Hello and welcome to Another Autism Guide.
 
-Please read the following documents before continuing with the rest of the repository.
-    How to use Markdown
-    File structure
-    File templates
+Please read the documents in the Getting started folder before continuing with the rest of the repository.
 
 
 When this hub gets to a large enough size it will be compiled into a manual and sold in print.
